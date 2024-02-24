@@ -30,5 +30,5 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
 
-![Snake animation](
+![Snake animation](https://github.com/AlvesJeskDev)
 

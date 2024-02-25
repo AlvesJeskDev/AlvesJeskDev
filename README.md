@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+:%29;Meu+nome+é+Jessica+Alves;Sou+Bacharelanda+em+Sistemas+de+Informação;atualmente+no+2º+Período.)](https://git.io/typing-svg)
 

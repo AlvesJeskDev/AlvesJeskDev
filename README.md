@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvesJeskDev&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=bd93f9&bg_color=282a36" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesJeskDev&layout=compact&hide_border=true&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvesJesk&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=bd93f9&bg_color=282a36" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesJesk&layout=compact&hide_border=true&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" />
 </div>
 
 <hr />
